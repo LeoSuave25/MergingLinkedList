@@ -9,6 +9,15 @@ This script defines a `ListNode` class representing a node in a linked list. The
 - Each node's value should be within the specified range of -100 to 100.
 - The number of nodes per list should be in the range of 0 to 50.
 
+## Constraints
+
+- Node values are within the range of -100 to 100.
+- The number of nodes per list is in the range of 0 to 50.
+
+## Author
+
+- Created by Leoj M. Suaverdez 👩‍💻👨‍💻
+
 ## Usage
 
 ```python
